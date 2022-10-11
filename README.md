@@ -11,6 +11,7 @@ _A list of resources explaining core machine learning concepts._
 - Gaussian Processes: [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/). Görtler, Kehlbeck & Deussen, Apr 2019.
 - Momentum: [Why Momentum Really Works](https://distill.pub/2017/momentum/). Gabriel Goh, Apr 2017.
 - LSTMs: [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/). Chris Olah, Aug 2015.
+- Numerical Sampling: [Sampling: Two Basic Algorithms](https://gregorygundersen.com/blog/2019/09/01/sampling/). Gregory Gundersen,Sep 2019.
 
 ## To View
 
