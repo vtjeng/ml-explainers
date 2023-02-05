@@ -20,3 +20,7 @@ _A list of resources explaining core machine learning concepts._
 - [In context learning and Induction Heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html), Anthropic.
 - Bayesian Deep Learning: [NeurIPS '17 keynote](https://www.youtube.com/watch?v=9saauSBgmcQ). Yee Whye Teh, Dec 2017.
 - [A Mechanistic Interpretability Analysis of Grokking](https://www.alignmentforum.org/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking). Nanda & Lieberum, Aug 2022.
+
+## Similar lists
+
+- https://aman.ai/primers/ai/
