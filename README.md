@@ -3,6 +3,7 @@
 _A list of resources explaining core machine learning concepts._
 
 - Transformers
+  - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/). Cho et. al.
   - [Formal Algorithms for Transformers](https://arxiv.org/abs/2207.09238). Phuong & Hutter, Jul 2022.
   - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/). Jay Alammar, Jun 2018.
   - [Attention is all you need](https://www.youtube.com/watch?v=rBCqOTEfxvg). Łukasz Kaiser, Oct 2017.
@@ -13,6 +14,9 @@ _A list of resources explaining core machine learning concepts._
 - Momentum: [Why Momentum Really Works](https://distill.pub/2017/momentum/). Gabriel Goh, Apr 2017.
 - LSTMs: [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/). Chris Olah, Aug 2015.
 - Numerical Sampling: [Sampling: Two Basic Algorithms](https://gregorygundersen.com/blog/2019/09/01/sampling/). Gregory Gundersen,Sep 2019.
+- Graph Neural Networks: [Theoretical Foundations of Graph Neural Networks](https://www.youtube.com/watch?v=uF53xsT7mjc).
+  Petar Veličković, Feb 2021.
+- Game Theory: [The Evolution of Trust](https://ncase.me/trust/), Jul 2017
 
 ## To View
 
@@ -25,3 +29,5 @@ _A list of resources explaining core machine learning concepts._
 ## Similar lists
 
 - https://aman.ai/primers/ai/
+- Diffusion
+  - [Elucidating the Design Space of Diffusion-Based Generative Models](https://www.youtube.com/watch?v=T0Qxzf0eaio). Aittala.
