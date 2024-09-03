@@ -17,6 +17,8 @@ _A list of resources explaining core machine learning concepts._
 - Graph Neural Networks: [Theoretical Foundations of Graph Neural Networks](https://www.youtube.com/watch?v=uF53xsT7mjc).
   Petar Veličković, Feb 2021.
 - Game Theory: [The Evolution of Trust](https://ncase.me/trust/), Jul 2017
+- Diffusion
+  - [Diffusion is spectral autoregression](https://sander.ai/2024/09/02/spectral-autoregression.html). Sander Dieleman, Sep 2024.
 
 ## To View
 
