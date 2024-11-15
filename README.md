@@ -28,6 +28,7 @@ _A list of resources explaining core machine learning concepts._
 - [A Mechanistic Interpretability Analysis of Grokking](https://www.alignmentforum.org/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking). Nanda & Lieberum, Aug 2022.
 - https://sebastianraschka.com/blog/2023/llm-reading-list.html
 - [Recent Advances in Foundation Models](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
+- [Geodesics, Data Manifolds, and Metric Tensors ... oh my!](https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/)
 
 ## Similar lists
 
